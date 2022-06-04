@@ -1,0 +1,105 @@
+/*29717523/Pedro Alonso Bueno de Souza*/
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+section{
+    width: 800px;
+    margin: 0 auto;
+    font-size: 12px;
+}
+header{
+    background-color: rgb(240, 240, 240);
+    height: 70px;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+nav{
+    float: right;
+}
+nav a{
+    float: left;
+    padding: 5px 20px 5px 20px;
+    margin-top: 30px;
+}
+footer{
+    background-color: rgb(41, 41, 41);
+    color: white;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+.selectedMenu{
+    background-color: #b43b3b;
+    padding: 5px 20px 5px 20px;
+    border-radius: 4px;
+}
+img{
+    border-radius: 10px 10px 0 0;
+    margin: 0 auto;
+}
+#banner small{
+    border-radius: 0 0 10px 10px;
+    background-color: rgb(240, 240, 240);
+    padding: 20px 153px 10px 155px;
+    line-height: 50px;
+    width: 800px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: #b43b3b;
+    padding: 5px 20px 5px 20px;
+    border-radius: 4px;
+}
+#meioheader div{
+    float: left;
+    color: black;
+    font-weight: bolder;
+    margin-top: 30px;
+    font-size: 15px;
+}
+#logo span{
+    color:#b43b3b;
+}
+article{
+    float: left;
+    width: 168px;
+    border:rgb(200, 200, 200) solid 1px;
+    padding: 15px;
+    margin: 0;
+}
+h3{
+    text-align: center;
+    color: #b43b3b;
+    font-weight: bolder;
+}
+article div{
+    float: left;
+    background-color: rgb(41, 41, 41);
+    border: none;
+    border-radius: 4px;
+    padding: 8px 10px 8px 10px;
+    color: white;
+    font-weight: lighter;
+}
+.icon{
+    clear: both;
+    width: 50px;
+    margin: 0 59px 0 59px;
+    text-align: center;
+}
+#highlight{
+    float: left;
+    margin: 15px 0 15px 0;
+    background-color: #b43b3b;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+    line-height: 0px;
+    padding: 1px 0px 1px 0px;
+}
